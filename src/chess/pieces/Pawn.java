@@ -86,7 +86,7 @@ public class Pawn extends ChessPiece {
 		return mat;
 	}
 	
-	private int getMoveCount() {
+	public int getMoveCount() {
 		// TODO Auto-generated method stub
 		return 0;
 	}
